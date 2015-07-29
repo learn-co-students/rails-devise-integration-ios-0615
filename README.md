@@ -1,8 +1,4 @@
----
-tags: rails, devise, omniauth
-languages: ruby
-resources: 3
----
+
 
 # Devise
 
