@@ -1,5 +1,3 @@
-
-
 # Devise
 
 ## Introduction
