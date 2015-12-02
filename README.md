@@ -294,3 +294,5 @@ Then it should be good to go!
 - [Devise Documentation](https://github.com/plataformatec/devise)
 - [DigitalOcean](https://www.digitalocean.com/) - [Setting Up Devise](https://www.digitalocean.com/community/tutorials/how-to-configure-devise-and-omniauth-for-your-rails-application)
 - [Github](http://www.github.com/) - [Omniauth-Facebook](https://github.com/mkdynamic/omniauth-facebook)
+
+<a href='https://learn.co/lessons/rails-devise-integration' data-visibility='hidden'>View this lesson on Learn.co</a>
